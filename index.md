@@ -12,7 +12,10 @@
 - Computer Vision; Person Re-identification; Video Object Segmentation; 3D Reconstruction;
 
 ### Publication
+- ***[PR 2023] Dynamic Gradient Reactivation for Backward Compatible Person Re-identification***
 
+  ***Xiao Pan**, Hao Luo, Weihua Chen, Fan Wang, Hao Li, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
+  
 - ***[ICCV 2023] TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering*** 
 
   ***Xiao Pan**, Zongxin Yang, Jianxin Ma, Chang Zhou, Yi Yang*
@@ -32,10 +35,6 @@
 
   *Siyuan Ren, **Xiao Pan**, Wenjie Zhao, Binling Nie, Bo Han*
   
-### Preprint
-- ***[arXiv 2022] Dynamic Gradient Reactivation for Backward Compatible Person Re-identification***
-
-  ***Xiao Pan**, Hao Luo, Weihua Chen, Fan Wang, Hao Li, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
 
 ### Education
 - **B.E.**  College of Control Science and Engineering, Zhejiang University, 2015 - 2019
