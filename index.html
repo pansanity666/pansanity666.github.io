@@ -8,12 +8,52 @@
 <html lang="en">
 <head>
   <title>Xiao Pan (潘啸)</title>
+  <link rel="icon" href="profile-picture.jpeg" type="image/icon type">
+
+  <style>
+    ul#links li {
+      display:inline;
+      padding: 10px;
+    }
+    a.tlk:link, a.tlk:visited, .tlk {
+    background-color: #3bc987;
+    }
+    .model-box {
+      position:   relative;
+      width:      100%;
+      height: 0;
+      padding-top:   60%; /* This is your aspect ratio */ }
+    .model-prebox {
+      position:   relative;
+      width:      100%;
+      height: 0;
+      padding-top:   40%; /* This is your aspect ratio */ }
+    .model {
+      position: absolute;
+      top:      0;
+      left:     0;
+      bottom:   0;
+      right:    0;
+      width:    100%;
+      height:   100%
+    }
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: gray;
+      color: white;
+      text-align: center;
+    }
+    </style>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
 </head>
 <body>
 
@@ -50,11 +90,10 @@
 
         <div class="row">
 
+
             <!-- Entries Column -->
             <!-- <div class="col-md-8" style="height: 30vh;"> -->
-
-
-              <div class="col-md-8" style="height: 30vh;">
+              <div class="col-md-8" style="margin-top:2%" >
                 
                 <div style="margin-top:3%; text-align:justify;">                
                 <p>Hi there! </p>
@@ -71,9 +110,10 @@
                 
               </div>
             </div> 
+            
 
-            <!-- Contact Info on the Sidebar -->
-            <div class="col-md-4">
+              <!-- Contact Info on the Sidebar -->
+              <div class="col-md-4">
                 <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b>Xiao Pan (潘啸)</b></div><br>
                 
                 <!-- Main Image -->
@@ -83,23 +123,18 @@
                 <p>School of Software Technology<br>
                 Zhejiang University<br>
                 Hangzhou, China<br>
+                <dd><a href="https://scholar.google.com/citations?hl=en&user=5Rh3yn4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></dd> 
+                <dd><a href="https://github.com/pansanity666">Github</a></dd>
           
                 </p>
-            </div>
-            
+                </div>
 
-            <!-- Links on the Sidebar -->
-            <div class="col-md-4" style="margin-top:2%">
-              <dd><a href="https://scholar.google.com/citations?hl=en&user=5Rh3yn4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></dd> 
-              <dd><a href="https://github.com/pansanity666">Github</a></dd>
-              <!-- <dd><a href="#">LinkedIn</a></dd> -->
-            </div>
-            
             
             <!-- Publications -->
-            <div class="col-md-8" style="height: 30vh;">    
+            <div class="col-md-8" style="margin-top:2%">    
+                <!-- <div style="margin-top:3%; text-align:justify;">  -->
+
                 <h2 id="publications">Publications</h2>
-                
                 <strong>Peer-reviewed</strong><br/>
                 
                 <ul>
@@ -130,7 +165,8 @@
             
 
             <!-- Educate -->
-            <div class="col-md-8" style="height: 12vh;">    
+            <div class="col-md-8" style="margin-top:2%">    
+            
               <h2 id="education">Education</h2>
               
               <p><strong>B.E.</strong>  College of Control Science and Engineering, Zhejiang University, 2015 - 2019</p>
@@ -140,14 +176,16 @@
             </div>
 
             
-            <div class="col-md-8" style="height: 10vh;">    
+            <div class="col-md-8" style="margin-top:2%">    
+        
               <h2 id="awards">Selected Awards</h2>
               <li> 2023 <strong>Academic Excellence Scholarship</strong>, School of Software Technology, Zhejiang University</li>
               <li> 2022 <strong>National Scholarship</strong>, School of Software Technology, Zhejiang University</li>
               <li> 2021 <strong>1st of National College Student Art Exhibition</strong>, Ministry of Education, PRC</li>
             </div>
 
-            <div class="col-md-8" >    
+            <div class="col-md-8" style="margin-top:2%">    
+               
               <h2 id="miscs">Miscs</h2>
               <p>I started to play <a href="https://en.wikipedia.org/wiki/Erhu">ErHu</a> (one of the most ancient Chinese traditional instruments with two strings) when I was 4 years old, taught by my father.</p>
                 <p>I was the head and concert master of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable years (2015 - 2021) and made many friends for life. </p>
