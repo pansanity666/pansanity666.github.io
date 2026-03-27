@@ -1,0 +1,56 @@
+# # main links links
+# main:
+#   - title: "About Me"
+#     url: "/#about-me"
+
+#   - title: "News"
+#     url: "/#-news"
+
+#   - title: "Publications"
+#     url: "/#-publications"
+
+#   - title: "Honors and Awards"
+#     url: "/#-honors-and-awards"
+
+#   - title: "Educations"
+#     url: "/#-educations"
+
+#   - title: "Invited Talks"
+#     url: "/#-invited-talks"
+
+#   - title: "Working Experience"
+#     url: "/#-working-experience"
+
+#   - title: "Hiring"
+#     url: "/#-hiring"
+
+
+
+
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Educations"
+    url: "/#educations"
+
+  # - title: "Invited Talks"
+  #   url: "/#invited-talks"
+
+  - title: "Working Experience"
+    url: "/#working-experience"
+
+  - title: "Hiring"
+    url: "/#hiring" 
+    # 注意：如果刚才你在 about.md 里听了我的建议把标题改成了 # ✉️ Openings，
+    # 这里的 url 就必须改成 "/#openings"，title 可以保留 "Hiring" 或改成 "Openings" 都可以。
