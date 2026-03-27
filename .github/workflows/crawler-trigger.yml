@@ -2,34 +2,31 @@ name: Update Scholar Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天按时自动洗衣服（运行爬虫）
-  workflow_dispatch: # 给你一个手动运行的按钮
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   run-crawler:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4 # 升级到 v4，消除黄色警告
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5 # 升级到 v5，消除黄色警告
       with:
         python-version: '3.9'
-
+    
     - name: Install requirements
-      run: pip install scholarly jsonpickle # 安装你爬虫需要的工具
-
-    - name: Run my awesome crawler
+      run: pip install requests # 新脚本只需要 requests 库
+    
+    - name: Run lightweight crawler
       env:
-        GOOGLE_SCHOLAR_ID: 5Rh3yn4AAAAJ # 你的真实 ID
-      run: |
-        # 这里就是按下洗衣机开关的那一步！
-        # 请确保这里的路径指向了你那个 .py 脚本的真实位置
-        python ./google_scholar_crawler/main.py
-
+        GOOGLE_SCHOLAR_ID: 5Rh3yn4AAAAJ
+      run: python ./google_scholar_crawler/main.py
+    
     - name: Save and Push results
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        # 你的脚本把结果存到了 results 文件夹，所以我们把 results 传上云端
-        git add results/* git commit -m "Auto-update Google Scholar stats" || exit 0
+        git add results/*
+        git commit -m "Auto-update Google Scholar stats" || exit 0
         git push

@@ -82,6 +82,9 @@ His primary research interests lie in **3D vision, multimodal learning, and AIGC
 
 **Xiao Pan**, Zongxin Yang, Jianxin Ma, Chang Zhou, Yi Yang
 
+<br>
+[![Code](https://img.shields.io/badge/Code-Github-black?logo=github)](https://github.com/pansanity666/TransHuman)
+[![Project](https://img.shields.io/badge/Project-Page-1a73e8?logo=googlechrome&logoColor=white)](https://pansanity666.github.io/TransHuman/)
 
 </div>
 </div>
