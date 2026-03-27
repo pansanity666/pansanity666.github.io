@@ -23,7 +23,10 @@ He previously served as a research intern in the Foundation Model Group at **Ali
 
 He has been honored with prestigious awards such as the **National Scholarship** from Zhejiang University.
 
-His primary research interests lie in **3D vision, multimodal learning, and AIGC**. He has published 8 papers at top-tier international AI conferences and journals, with total Google Scholar citations <a href='https://scholar.google.com/citations?user=5Rh3yn4AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+His primary research interests lie in **3D vision, multimodal learning, and AIGC**. He has published 8 papers at top-tier international AI conferences and journals.
+
+
+ <!-- with total Google Scholar citations <a href='https://scholar.google.com/citations?user=5Rh3yn4AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 
 # 🔥 News
@@ -97,6 +100,9 @@ His primary research interests lie in **3D vision, multimodal learning, and AIGC
 [In-n-out Generative Learning for Dense Unsupervised Video Segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5Rh3yn4AAAAJ&citation_for_view=5Rh3yn4AAAAJ:u-x6o8ySG0sC)
 
  **Xiao Pan**, Peike Li, Zongxin Yang, Huiling Zhou, Chang Zhou, Hongxia Yang, Jingren Zhou, Yi Yang
+
+<br>
+[![Code](https://img.shields.io/badge/Code-Github-black?logo=github)](https://github.com/pansanity666/INO_VOS)
 
 </div>
 </div>
