@@ -19,7 +19,7 @@ redirect_from:
 
 Xiao Pan is currently an **Assistant Professor** in the College of Electronics and Information Engineering at **Shenzhen University** (深圳大学, 丁文华院士团队). He received his Ph.D. in Artificial Intelligence from **Zhejiang University** in 2025, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en'>**Yi Yang**</a>. 
 
-He previously served as a research intern in the Foundation Model Group at **Alibaba's Tongyi Lab** and a visiting scholar at **Nanyang Technological University**, Singapore.
+He previously served as a research intern in the Foundation Model Group at **Alibaba's Tongyi Lab** and a visiting student at **Nanyang Technological University**, Singapore.
 
 He has been honored with prestigious awards such as the **National Scholarship** from Zhejiang University.
 
@@ -31,9 +31,11 @@ His primary research interests lie in **3D vision, multimodal learning, and AIGC
 
 # 🔥 News
 <span class='anchor' id='news'></span>
-- *2026.01*: &nbsp;🎉🎉 Joined Shenzhen University as an Assistant Professor.
-
-
+- *2026.01*: &nbsp;👨‍🏫 Joined Shenzhen University as an Assistant Professor.
+- *2024.06*: &nbsp;🦁 Began a one-year visiting student program at Nanyang Technological University, Singapore.
+- *2023.11*: &nbsp;🌉 Completed a short visit to the Bay Area, including Stanford, UC Berkeley, Meta, and Google. 
+- *2023.10*: &nbsp;🇫🇷 Attended ICCV 2023 in Paris, France.
+- *2021.06*: &nbsp;🔬 Joined Alibaba DAMO Academy as a Research Intern.
 
 # 📝 Publications 
 <span class='anchor' id='publications'></span>
@@ -154,3 +156,17 @@ His primary research interests lie in **3D vision, multimodal learning, and AIGC
 - **Postdoctoral Researcher**: Seeking researchers in 3D reconstruction, understanding, and AIGC.
 - **Research Intern**: Undergraduates interested in 3D vision and Multimodal AI are welcome.
 - **Master's Students**: Planning to admit one master's student for Sept. 2026.
+
+
+# 🌟 Miscs
+<span class='anchor' id='miscs'></span>
+
+- I started playing the [ErHu](https://en.wikipedia.org/wiki/Erhu) when I was 4 years old, taught by my father.
+
+- I served as the head and concertmaster of the **Wenqin National Orchestra** at Zhejiang University, where I spent 6 enjoyable years (2015 - 2021) and made lifelong friends.
+  <p align="center">
+  <img src="./images/wenqing2.jpg" alt="drawing" width="40%"/>
+  <img src="./images/wenqing.jpg" alt="drawing" width="40%"/>
+  </p>
+
+- I am interested in Chinese calligraphy and practice it occasionally.

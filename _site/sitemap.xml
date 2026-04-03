@@ -3,4 +3,11 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/bkup/bkup/img/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bkup/bkup/</loc>
+<lastmod>2026-03-26T20:53:11+08:00</lastmod>
+</url>
 </urlset>
