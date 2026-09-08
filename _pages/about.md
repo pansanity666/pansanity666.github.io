@@ -23,7 +23,7 @@ He previously served as a research intern in the Foundation Model Group at **Ali
 
 He has been honored with prestigious awards such as the **National Scholarship** from Zhejiang University.
 
-His primary research interests lie in **3D vision, multimodal learning, and AIGC**. He has published 8 papers at top-tier international AI conferences and journals.
+His primary research interests lie in **3D vision, multimodal learning, and AIGC**. He has published 10 papers at top-tier international AI conferences and journals.
 
 
  <!-- with total Google Scholar citations <a href='https://scholar.google.com/citations?user=5Rh3yn4AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
@@ -39,6 +39,10 @@ His primary research interests lie in **3D vision, multimodal learning, and AIGC
 
 # 📝 Publications 
 <span class='anchor' id='publications'></span>
+
+- <span class="badge" style="position: static; display: inline-block; margin-right: 10px; line-height: 1.5;">ACL Findings 2026</span> [Token-level Inference-Time Alignment for Vision-Language Models](https://aclanthology.org/2026.findings-acl.1253/), K Chen, J Zheng, J Zhang, M Lin, **Xiao Pan**, J Hu, J Lou, Z Feng, M Song.
+
+- <span class="badge" style="position: static; display: inline-block; margin-right: 10px; line-height: 1.5;">TMM 2026</span> FocusGS: Focused Optimization of Dynamic Gaussian Splatting for Monocular Sequence Reconstruction, Wan Li, **Xiao Pan**, Jiaxin Lin, Daquan Feng.
 
 <!-- Paper4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/paper_insightedit.png' alt="sym" width="100%"></div></div>
