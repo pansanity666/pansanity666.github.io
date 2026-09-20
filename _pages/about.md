@@ -153,14 +153,27 @@ His primary research interests lie in **3D vision, multimodal learning, and AIGC
 - *2024.06 - 2025.06*, **Visiting Student**, Nanyang Technological University, Singapore.
 - *2021.06 - 2024.03*, **Research Intern**, Alibaba Tongyi Lab (Foundation Model Group), China.
 
+# 📚 Teaching
+<span class='anchor' id='teaching'></span>
+
+- *2026 Fall*, **Computer Vision Frontiers**, Graduate Course.
+
+# 📌 Research Grants
+<span class='anchor' id='research-grants'></span>
+
+- *2027.01 - 2029.12*, **National Natural Science Foundation of China (NSFC) Youth Science Fund (Category C)**, RMB 300,000.
+
 
 # ✉️ Hiring
 <span class='anchor' id='hiring'></span>
 
 **The following positions are currently open for application:**
-- **Postdoctoral Researcher**: Seeking researchers in 3D reconstruction, understanding, and AIGC.
-- **Research Intern**: Undergraduates interested in 3D vision and Multimodal AI are welcome.
-- **Master's Students**: Planning to admit one master's student for Sept. 2026.
+
+- **Postdoctoral Researcher:** Open to applicants working in computer vision, multimodal learning, and related interdisciplinary fields. Candidates with relevant research achievements are preferred.
+
+- **Research Intern:** Undergraduate students with a strong interest in artificial intelligence and excellent logical thinking skills are welcome to apply. Prior research experience is preferred.
+
+- **Master's Student:** Students with a strong interest in research and an intention to pursue a Ph.D. are welcome to apply. Outstanding students may be recommended to continue their doctoral studies.
 
 
 # 🌟 Miscs

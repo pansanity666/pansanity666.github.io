@@ -50,6 +50,12 @@ main:
   - title: "Working Experience"
     url: "/#working-experience"
 
+  - title: "Teaching"
+    url: "/#teaching"
+
+  - title: "Research Grants"
+    url: "/#research-grants"
+
   - title: "Hiring"
     url: "/#hiring" 
     # 注意：如果刚才你在 about.md 里听了我的建议把标题改成了 # ✉️ Openings，
