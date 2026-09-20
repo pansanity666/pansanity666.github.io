@@ -124,10 +124,10 @@ His primary research interests lie in **3D vision, multimodal learning, and AIGC
 
 
 
-<!-- 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<span class='anchor' id='invited-talks'></span>
+
+- *2026.06.27*, **Zhejiang University**: Research Progress in 3D Understanding and Generation.
 
 
 # 🎖 Honors and Awards
